@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cmfoodchainType>
+    <branch>
+        <location>Pune</location>
+        <totalcollection>400.0</totalcollection>
+        <locationid>PUNE-1234-222</locationid>
+    </branch>
+    <orders>
+        <orderdetail>
+            <orderid>1</orderid>
+            <billamount>200.0</billamount>
+        </orderdetail>
+        <orderdetail>
+            <orderid>2</orderid>
+            <billamount>100.0</billamount>
+        </orderdetail>
+        <orderdetail>
+            <orderid>3</orderid>
+            <billamount>100.0</billamount>
+        </orderdetail>
+            </orders>
+</cmfoodchainType>
+

@@ -1,0 +1,18 @@
+{
+	"cmfoodchain": {
+		"branch": [
+			{
+				"sumoforder": "347.0",
+				"locationid": "PUNE-1234-457",
+				"location": "Pune",
+				"totalcollection": "347.0"
+			},
+			{
+				"sumoforder": "400.0",
+				"locationid": "PUNE-1234-222",
+				"location": "Pune",
+				"totalcollection": "400.0"
+			}
+		]
+	}
+}

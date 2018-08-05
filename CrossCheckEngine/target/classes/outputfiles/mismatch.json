@@ -1,0 +1,24 @@
+{
+	"cmfoodchain": {
+		"branch": [
+			{
+				"sumoforder": "247.0",
+				"locationid": "DELH-1234-231",
+				"location": "Delhi",
+				"totalcollection": "123.0"
+			},
+			{
+				"sumoforder": "347.0",
+				"locationid": "BOM-1234-456",
+				"location": "Mumbai",
+				"totalcollection": "224.0"
+			},
+			{
+				"sumoforder": "300.0",
+				"locationid": "NAS-1234-111",
+				"location": "Nashik",
+				"totalcollection": "224.0"
+			}
+		]
+	}
+}

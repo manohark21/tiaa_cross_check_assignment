@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cmfoodchainType>
+    <branch>
+        <location>Mumbai</location>
+        <totalcollection>224.00</totalcollection>
+        <locationid>BOM-1234-456</locationid>
+    </branch>
+    <orders>
+        <orderdetail>
+            <orderid>1</orderid>
+            <billamount>123.00</billamount>
+        </orderdetail>
+        <orderdetail>
+            <orderid>2</orderid>
+            <billamount>124.0</billamount>
+        </orderdetail>
+        <orderdetail>
+            <orderid>3</orderid>
+            <billamount>100.0</billamount>
+        </orderdetail>
+            </orders>
+</cmfoodchainType>
+
